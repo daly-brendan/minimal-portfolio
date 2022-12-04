@@ -6,9 +6,9 @@ export default [
 
     },
     {
-        title: 'Portfolio Website',
+        title: 'Countdown Timer',
         imgUrl: '',
-        stack: ['HTML', 'TailwindCSS', 'React', 'Vite'],
+        stack: ['HTML', 'CSS', 'Vanilla JavaScript'],
 
     },
     {
