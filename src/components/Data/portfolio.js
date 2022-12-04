@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Portfolio Website',
-        imgUrl: '\assets\PortfolioPNG.PNG',
+        imgUrl: '.\assets\PortfolioPNG.PNG',
         stack: ['HTML', 'TailwindCSS',  'React', 'Vite'],
 
     },
