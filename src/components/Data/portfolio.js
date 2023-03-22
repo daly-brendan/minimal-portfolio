@@ -6,15 +6,15 @@ export default [
 
     },
     {
-        title: 'Countdown Timer',
-        imgUrl: '',
-        stack: ['HTML', 'CSS', 'Vanilla JavaScript'],
+        title: 'Meal Reccomendation',
+        imgUrl: '/assets/MealReccomendationScript.JPG',
+        stack: ['Python', 'Pandas'],
 
     },
     {
-        title: 'Twitter Sentiment Analysis',
-        imgUrl: '',
-        stack: ['HTML', 'TailwindCSS',  'React', 'Vite'],
+        title: 'Running Journal (in Progress)',
+        imgUrl: '/assets/RunningJournal.JPG',
+        stack: ['HTML', 'TailwinCSS', 'React', 'Vite'],
 
     }
 ]
