@@ -12,7 +12,7 @@ export default [
 
     },
     {
-        title: 'Calculator',
+        title: 'Twitter Sentiment Analysis',
         imgUrl: '',
         stack: ['HTML', 'TailwindCSS',  'React', 'Vite'],
 
